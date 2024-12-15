@@ -4,7 +4,10 @@ import './App.css'
 function App() {
 
   return (
-    <div>sid</div>
+    <div>
+    <h1>sid</h1>
+    <p>i like burgers</p>
+    </div>
   )
 }
 
