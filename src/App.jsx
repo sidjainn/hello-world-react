@@ -7,6 +7,7 @@ function App() {
     <div>
     <h1>sid</h1>
     <p>i like burgers</p>
+    <p>i like chapati</p>
     </div>
   )
 }
